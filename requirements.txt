@@ -1,0 +1,7 @@
+pandas - data cleaning and analysis
+numpy - numerical calculations
+matplotlib - creating charts and graphs
+seaborn - data visualization
+scikit-learn - linear regressions and k-means clustering
+openpyxl - working with Excel files
+jupyter - running Jupyter notebooks
